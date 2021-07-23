@@ -130,7 +130,7 @@ section {
     line-height: 1.2;
   }
   .footer_container {
-    margin: 3rem;
+    margin-top: 3rem;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
