@@ -406,7 +406,7 @@ section {
 }
 .quote_image_overlay {
   position: absolute;
-  height: 200px;
+  height: 300px;
   width: 100%;
   border-radius: 13px;
   background-color: #0a4065;
